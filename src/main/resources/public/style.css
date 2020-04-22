@@ -79,6 +79,22 @@ body {
     font-family: Hanna, fantasy;
 }
 
+.make-new-room {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    height: 70px;
+    font-size:25px;
+}
+
+.enter-room {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    height: 70px;
+    font-size: 25px;
+}
+
 /*********/
 
 .title {
